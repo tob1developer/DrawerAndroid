@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/fragmentA"
-        android:name="com.tob1.example.test.drawerandroid.FragmentA"
+        android:name="com.tob1.example.test.drawerandroid.ui.layout.FragmentA"
         android:label="fragment_a"
         tools:layout="@layout/fragment_a" />
     <fragment
         android:id="@+id/fragmentC"
-        android:name="com.tob1.example.test.drawerandroid.FragmentC"
+        android:name="com.tob1.example.test.drawerandroid.ui.layout.FragmentC"
         android:label="fragment_c"
         tools:layout="@layout/fragment_c" />
     <fragment
         android:id="@+id/fragmnetB"
-        android:name="com.tob1.example.test.drawerandroid.FragmnetB"
+        android:name="com.tob1.example.test.drawerandroid.ui.layout.FragmnetB"
         android:label="fragment_fragmnet_b"
         tools:layout="@layout/fragment_b" />
     <action
